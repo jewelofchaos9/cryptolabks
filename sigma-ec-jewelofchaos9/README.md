@@ -1,0 +1,3 @@
+# sigma
+
+![kek](./proof.png)
